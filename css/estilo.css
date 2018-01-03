@@ -1,0 +1,66 @@
+body {
+	background-color: #6495ED;
+	
+	color: yellow;
+	font-family: sans-serif;
+}
+
+.navegacao {
+	color: yellow;
+	font-style: italic;
+	font-size: 40px;
+	text-decoration: none;
+	padding: 10px;
+}
+.banner {
+	text-align: center;
+	padding: 20px;
+}
+
+
+.introducao {
+	font-size: 20px;
+	padding: 20px;
+	
+}
+
+.alinha-video {
+	text-align: center;
+	margin-top: 45px;
+
+}
+.link {
+	margin: 15px;
+}
+.subtitulo {
+	font-style: italic;
+	font-size: 30px;
+	margin-left: 20px;
+}
+.texto {
+	margin: 25px;
+	font-size: 18px;
+}
+.imagem {
+	margin-left: 25px; 
+}
+.tabela, .tabela tr, .tabela td{
+	border-radius: 5px;
+	border-color: yellow;
+	border-style: solid;
+	border-width: 5px;
+}
+.tabela td{
+	color:white;
+}
+.tabela{
+	margin:auto;
+	margin-top: 40px;
+}
+.imagem-tabela {
+	background-image: url( "../imagens/ashpika.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-attachment: fixed;
+	background-size: 40%;
+}
